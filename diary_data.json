@@ -1,10 +1,14 @@
 [
   {
     "date": "2026-07-14",
-    "entry": "first"
+    "entry": "hello"
   },
   {
     "date": "2026-07-14",
     "entry": "second"
+  },
+  {
+    "date": "2026-07-15",
+    "entry": "learning python is fun"
   }
 ]
